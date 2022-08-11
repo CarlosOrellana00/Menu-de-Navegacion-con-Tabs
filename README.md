@@ -20,6 +20,7 @@
 Este proyecto se creó con fines de aprendizaje usando HTML y CSS. 
 
 ## Capturas de Pantalla
+vistas referenciales de como funciona este proyecto.
 <div align="center">
   <a href="" rel="noopener">
   <img src="./docs/img/foto1.jpg" alt="Screenshot 5x5" width="300"></a>
