@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="" rel="noopener">
+  <a href="https://carlosorellana00.github.io/Menu-de-Navegacion-con-Tabs/" rel="noopener">
     <img src="./docs/img/foto1.jpg" alt="icon" width="100%">
   </a>
 </div>
@@ -22,19 +22,19 @@ Este proyecto se creó con fines de aprendizaje usando HTML y CSS.
 ## Capturas de Pantalla
 vistas referenciales de como funciona este proyecto.
 <div align="center">
-  <a href="" rel="noopener">
+  <a href="https://carlosorellana00.github.io/Menu-de-Navegacion-con-Tabs/" rel="noopener">
   <img src="./docs/img/foto1.jpg" alt="Screenshot 5x5" width="300"></a>
 </div>
 <div align="center">
-  <a href="" rel="noopener">
+  <a href="https://carlosorellana00.github.io/Menu-de-Navegacion-con-Tabs/" rel="noopener">
   <img src="./docs/img/foto2.jpg" alt="Screenshot 5x5" width="300"></a>
 </div>
 <div align="center">
-  <a href="" rel="noopener">
+  <a href="https://carlosorellana00.github.io/Menu-de-Navegacion-con-Tabs/" rel="noopener">
   <img src="./docs/img/foto3.jpg" alt="Screenshot 5x5" width="300"></a>
 </div>
 <div align="center">
-  <a href="" rel="noopener">
+  <a href="https://carlosorellana00.github.io/Menu-de-Navegacion-con-Tabs/" rel="noopener">
   <img src="./docs/img/foto4.jpg" alt="Screenshot 5x5" width="300"></a>
 </div>
 
