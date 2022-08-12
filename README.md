@@ -19,6 +19,9 @@
 ## ¿Cuál es el fin de este proyecto?
 Este proyecto se creó con fines de aprendizaje usando HTML y CSS. 
 
+## ¿Puedo Probarlo en Linea? 
+Si, Puedes probarlo en linea haciendo click [aqui](https://carlosorellana00.github.io/Menu-de-Navegacion-con-Tabs/)
+
 ## Capturas de Pantalla
 vistas referenciales de como funciona este proyecto.
 <div align="center">
