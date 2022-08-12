@@ -41,6 +41,6 @@ vistas referenciales de como funciona este proyecto.
   <img src="./docs/img/foto4.jpg" alt="Screenshot 5x5" width="300"></a>
 </div>
 
-## Referencias: 
+## Referencias y Agradecimientos a: 
 - [Versión original by SLeeDw20](https://github.com/SLeeDw20/menu-tabs)
 - [Video-tutorial "Como hacer un Menù de Navegación con Tabs | Html y Css | 2020"](https://www.youtube.com/watch?v=Xh94Osf1hvU)
